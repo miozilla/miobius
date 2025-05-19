@@ -1,4 +1,4 @@
-# Miobius
+# miobius 🎱
 Artificial Intelligent Content Management
 
 ## Objective
