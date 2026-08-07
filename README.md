@@ -6,6 +6,11 @@ To analyze & extract data like invoiceID, statementDate, etc. from various conte
 Leverage AI Document Intelligence Content Understanding to cater traditional content managent limitation.
 To use Content Understanding REST API.
 
+## Similar skills Set
+- GCP : Vertex AI
+- AWS : Bedrock
+- CMS : Joomla, WordPress, Drupal, Plone, Adobe Experience Manager, Oracle Content Management
+
 ## AI Document Intelligence Content Understanding
 
 ![miobius001.png](./media/miobius001.png)
